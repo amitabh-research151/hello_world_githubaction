@@ -1,0 +1,13 @@
+flask
+pandas
+numpy
+Flask-Cors
+gunicorn
+PyYAML
+six
+dill
+
+
+
+# package creation
+-e .
